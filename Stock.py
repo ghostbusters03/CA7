@@ -22,7 +22,7 @@ def fetch_and_save_data():
 
     # Format the current timestamp and use it as the file name
     timestamp = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
-    file_path = f"{directory}/stock_data_{timestamp}.json"
+    file_path = f"{directory}/stock_data.json"
 
     # Writing data to the file
     with open(file_path, 'w') as file:
