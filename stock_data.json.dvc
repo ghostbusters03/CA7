@@ -1,0 +1,5 @@
+outs:
+- md5: 7128be665c735d236bfc158adbc21fc1
+  size: 22644
+  hash: md5
+  path: stock_data.json
