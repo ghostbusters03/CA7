@@ -10,3 +10,22 @@ TASK 3: i200503
 - Made changes accordingly to all the files train.py, conda.yaml, MLproject, python_env.yaml  
 - mlflow run . --env-manager local  
 - mlflow server  
+- Did the optional task aswell by doing hyperparameter tuning: Results are as follows:
+1) --alpha 0.5 --l1_ratio 0.1
+     
+Validation MSE: 287.3260985442783
+
+Validation R²: 0.7397263246993735
+
+Test MSE: 285.6632065819075
+
+Test R²: 0.698707339893039
+
+2) --alpha 0.3 --l1_ratio 0.2
+Validation MSE: 287.3260985442783
+
+Validation R²: 0.7397263246993735
+
+Test MSE: 285.6632065819075
+
+Test R²: 0.698707339893039
