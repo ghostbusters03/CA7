@@ -1,2 +1,4 @@
 /stock_data.json
 /data_store
+rm CA7/silent-fuze-423510-d3-340db5c07051.json
+echo "CA7/silent-fuze-423510-d3-340db5c07051.json" >> .gitignore
