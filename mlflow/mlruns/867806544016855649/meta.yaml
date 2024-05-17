@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Work/mlops/CA7/mlflow/mlruns/867806544016855649
+creation_time: 1715966206968
+experiment_id: '867806544016855649'
+last_update_time: 1715966206968
+lifecycle_stage: active
+name: model_selection

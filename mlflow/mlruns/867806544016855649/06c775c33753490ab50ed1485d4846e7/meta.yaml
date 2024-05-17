@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Work/mlops/CA7/mlflow/mlruns/867806544016855649/06c775c33753490ab50ed1485d4846e7/artifacts
+end_time: 1715966223969
+entry_point_name: ''
+experiment_id: '867806544016855649'
+lifecycle_stage: active
+run_id: 06c775c33753490ab50ed1485d4846e7
+run_name: adventurous-moth-870
+run_uuid: 06c775c33753490ab50ed1485d4846e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715966220153
+status: 3
+tags: []
+user_id: hp

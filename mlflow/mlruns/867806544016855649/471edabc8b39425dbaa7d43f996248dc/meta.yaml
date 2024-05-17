@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Work/mlops/CA7/mlflow/mlruns/867806544016855649/471edabc8b39425dbaa7d43f996248dc/artifacts
+end_time: 1715966220143
+entry_point_name: ''
+experiment_id: '867806544016855649'
+lifecycle_stage: active
+run_id: 471edabc8b39425dbaa7d43f996248dc
+run_name: caring-croc-200
+run_uuid: 471edabc8b39425dbaa7d43f996248dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715966216321
+status: 3
+tags: []
+user_id: hp

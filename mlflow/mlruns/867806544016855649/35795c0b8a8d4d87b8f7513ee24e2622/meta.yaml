@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Work/mlops/CA7/mlflow/mlruns/867806544016855649/35795c0b8a8d4d87b8f7513ee24e2622/artifacts
+end_time: 1715966232415
+entry_point_name: ''
+experiment_id: '867806544016855649'
+lifecycle_stage: active
+run_id: 35795c0b8a8d4d87b8f7513ee24e2622
+run_name: likeable-crow-769
+run_uuid: 35795c0b8a8d4d87b8f7513ee24e2622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715966228142
+status: 3
+tags: []
+user_id: hp

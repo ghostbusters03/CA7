@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Work/mlops/CA7/mlflow/mlruns/867806544016855649/c47201c30d86462183231e7a5e311f72/artifacts
+end_time: 1715966556672
+entry_point_name: ''
+experiment_id: '867806544016855649'
+lifecycle_stage: active
+run_id: c47201c30d86462183231e7a5e311f72
+run_name: bold-duck-16
+run_uuid: c47201c30d86462183231e7a5e311f72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715966549261
+status: 3
+tags: []
+user_id: hp

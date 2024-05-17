@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Work/mlops/CA7/mlflow/mlruns/867806544016855649/c95fb2f2864245f29c39f8c3d4826408/artifacts
+end_time: 1715966216307
+entry_point_name: ''
+experiment_id: '867806544016855649'
+lifecycle_stage: active
+run_id: c95fb2f2864245f29c39f8c3d4826408
+run_name: bemused-zebra-247
+run_uuid: c95fb2f2864245f29c39f8c3d4826408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715966208247
+status: 3
+tags: []
+user_id: hp

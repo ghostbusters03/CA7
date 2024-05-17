@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Work/mlops/CA7/mlflow/mlruns/867806544016855649/fd155fbd576c4eff820ade4682888563/artifacts
+end_time: 1715966549240
+entry_point_name: ''
+experiment_id: '867806544016855649'
+lifecycle_stage: active
+run_id: fd155fbd576c4eff820ade4682888563
+run_name: upbeat-moose-84
+run_uuid: fd155fbd576c4eff820ade4682888563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715966542119
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Work/mlops/CA7/mlflow/mlruns/867806544016855649/23cf66c434bc40b78091d4e0ee6897b9/artifacts
+end_time: 1715966526547
+entry_point_name: ''
+experiment_id: '867806544016855649'
+lifecycle_stage: active
+run_id: 23cf66c434bc40b78091d4e0ee6897b9
+run_name: sedate-auk-556
+run_uuid: 23cf66c434bc40b78091d4e0ee6897b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715966515688
+status: 3
+tags: []
+user_id: hp

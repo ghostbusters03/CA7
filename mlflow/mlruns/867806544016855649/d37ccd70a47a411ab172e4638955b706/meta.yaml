@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Work/mlops/CA7/mlflow/mlruns/867806544016855649/d37ccd70a47a411ab172e4638955b706/artifacts
+end_time: 1715966542104
+entry_point_name: ''
+experiment_id: '867806544016855649'
+lifecycle_stage: active
+run_id: d37ccd70a47a411ab172e4638955b706
+run_name: rogue-hound-742
+run_uuid: d37ccd70a47a411ab172e4638955b706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715966534191
+status: 3
+tags: []
+user_id: hp
