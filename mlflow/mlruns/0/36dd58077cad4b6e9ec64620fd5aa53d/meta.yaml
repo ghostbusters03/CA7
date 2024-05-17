@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AbdullahGill/CA7/mlflow/mlruns/0/36dd58077cad4b6e9ec64620fd5aa53d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36dd58077cad4b6e9ec64620fd5aa53d
+run_name: glamorous-crow-8
+run_uuid: 36dd58077cad4b6e9ec64620fd5aa53d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715967304573
+status: 1
+tags: []
+user_id: Gill

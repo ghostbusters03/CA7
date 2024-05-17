@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AbdullahGill/CA7/mlflow/mlruns/0/513ae7b3742f4d2999fdbfd6a31cbd2a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 513ae7b3742f4d2999fdbfd6a31cbd2a
+run_name: gentle-eel-88
+run_uuid: 513ae7b3742f4d2999fdbfd6a31cbd2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715968696757
+status: 1
+tags: []
+user_id: Gill

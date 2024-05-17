@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AbdullahGill/CA7/mlflow/mlruns/0/fb0d841b8c93438ca283d3e482dfe10d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb0d841b8c93438ca283d3e482dfe10d
+run_name: capable-lamb-556
+run_uuid: fb0d841b8c93438ca283d3e482dfe10d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715969729168
+status: 1
+tags: []
+user_id: Gill

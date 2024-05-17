@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AbdullahGill/CA7/mlflow/mlruns/0/d962a06ff3bc4560a71a3e1ae90d50d5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d962a06ff3bc4560a71a3e1ae90d50d5
+run_name: enchanting-hog-354
+run_uuid: d962a06ff3bc4560a71a3e1ae90d50d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715968026311
+status: 1
+tags: []
+user_id: Gill

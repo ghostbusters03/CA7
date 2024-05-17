@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AbdullahGill/CA7/mlflow/mlruns/0/f7c79594ac524b3c8c6a2641929c2c91/artifacts
+end_time: 1715969698994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7c79594ac524b3c8c6a2641929c2c91
+run_name: gaudy-hen-689
+run_uuid: f7c79594ac524b3c8c6a2641929c2c91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715969424299
+status: 4
+tags: []
+user_id: Gill
