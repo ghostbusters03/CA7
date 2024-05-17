@@ -1,6 +1,9 @@
 [core]
-    remote = myremote
+    remote = myremote2
     autostage = true
 ['remote "myremote"']
     url = gs://mlopsca7
     credentialpath = C:\Downloads\silent-fuze-423510-d3-87a10d691532.json
+['remote "myremote2"']
+    url = gs://mlopsca7
+    credentialpath = ../silent-fuze-423510-d3-340db5c07051.json
