@@ -11,6 +11,11 @@ TASK 3: i200503
 - mlflow run . --env-manager local  
 - mlflow server  
 - Did the optional task aswell by doing hyperparameter tuning: Results are as follows:
+
+![graph](https://github.com/ghostbusters03/CA7/assets/125590201/b40a09cc-b2c7-4712-8a3a-0a2bfe068593)
+
+
+
 1) --alpha 0.5 --l1_ratio 0.1
      
 Validation MSE: 287.3260985442783
